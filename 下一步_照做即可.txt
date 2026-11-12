@@ -1,0 +1,15 @@
+第十週剩餘操作（依照目前畫面）
+
+已確認：6 份 .md 檔案在你的 Windows wiki 資料夾；HTML 第 10 頁能播放與答題。
+未確認：已建立 LLM Wiki、6 篇成功 Ingest、查詢結果、GitHub Pages 網址。
+
+A. 開啟老師使用的 LLM Wiki 網頁（不是 Windows 資料夾，也不是 HTML）。
+B. 新增 Wiki：SmartRack 智慧補料教學 Wiki。
+C. 在 Ingest/Upload Files 選擇 wiki 資料夾中的 6 份 md；如不支援 md，逐篇開啟複製其文字新增。
+D. 看見文件索引成功才截圖；再依 WIKI_查詢指令_直接複製.txt 做 Q1～Q6 查詢。
+E. 保留 Wiki 查詢畫面及引用來源；核對 Q=max(0,D+S-I)、25/0/13、R001→R003。
+F. 到 GitHub 建立 PUBLIC repository：smartrack-week10；上傳本資料夾中 index.html、README.md、WORKFLOW.md、SUBMISSION.md、wiki 資料夾（可略除私密資料）。index.html 必須放在 repository 根目錄。
+G. GitHub Settings → Pages → Deploy from a branch → main / (root) → Save。成功後網站網址通常為 https://jimmy920530.github.io/smartrack-week10/ （需要實際開啟驗證）。
+H. 在 SUBMISSION.md 填入真實 LLM Wiki 網址、GitHub Pages URL、查詢紀錄與反思，繳交。
+
+注意：不能將本機 file:/// 或 C:\Users\... 當成可供老師存取的網站網址。
